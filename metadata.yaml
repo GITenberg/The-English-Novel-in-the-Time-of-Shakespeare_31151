@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25062
     wikipedia: http://en.wikipedia.org/wiki/Jean_Jules_Jusserand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31151#The-English-Novel-in-the-Time-of-Shakespeare
 gutenberg_issued: '2010-02-01'
 gutenberg_type: Text
 identifiers:
